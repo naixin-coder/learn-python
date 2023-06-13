@@ -28,7 +28,7 @@ print(now)
 print(datetime.today().second)
 
 
-# 多线程1
+# 多线程
 class AsyncZipFile(Thread):
     # infile = ''
 
